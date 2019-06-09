@@ -43,7 +43,7 @@ char auth[] = "1963032977a347e3b934e85b7080e380";
 // Your WiFi credentials.
 // Set password to "" for open networks.
 char ssid[] = "ApexMicro";
-char pass[] = "1020304050";
+char pass[] = "wifiPasswordHere";
 
 void pulsePins(byte value) {
   switch (value) {
