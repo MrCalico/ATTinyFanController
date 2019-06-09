@@ -22,3 +22,5 @@ https://github.com/blynkkk/blynk-library/releases/latest
 
 My Code:
 https://github.com/mrcalico/ATTinyFanController
+
+The fan in this project did not comform to a standard IR model.  The real tricky part of this build is capturing the IR codes for the fan.  I had to use my dual channel Oscilliscope to match the remote and the output correctly.  I believe there are premium software tools that can help but refused to purchase anything except the few dollars spent on the hardware. 
